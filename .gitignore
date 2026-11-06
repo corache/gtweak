@@ -1,0 +1,7 @@
+build/
+coverage/
+npm-debug.log*
+.env.local
+.cache/
+.pnpm-store/
+_site/
